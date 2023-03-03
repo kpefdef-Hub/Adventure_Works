@@ -1,5 +1,5 @@
 # Adventure_Works
-This is an analysis of Adventure Work's Sales performance. I have analyzed the Revenue/Sales (total and average), the Profit (total and average). These were analyzed per the Category of Items sold as well as by the Educational levels attained by the customers.
+This is an analysis of Adventure Work's Sales performance using Tableau. I have analyzed the Revenue/Sales (total and average), the Profit (total and average). These were analyzed per the Category of Items sold as well as by the Educational levels attained by the customers.
 
 Visualizing the Revenue and Profit per Item Category using a combined bar chart
 ![Profit Rev Per Category (USD)](https://user-images.githubusercontent.com/114897374/221990741-f9d01d6f-41ce-4707-b180-36a3bc50988b.png)
